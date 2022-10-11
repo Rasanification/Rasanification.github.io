@@ -89,7 +89,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 65px;
 }
 
 #header.header-scrolled,
@@ -1196,14 +1196,14 @@ section {
 
 .contact .info p {
   padding: 0 0 0 60px;
-  margin-bottom: 0;
+  /*margin-bottom: 0;*/
   font-size: 14px;
   color: #816a6e;
 }
 
 .contact .info .email,
 .contact .info .phone {
-  margin-top: 40px;
+  /*margin-top: 40px; */
 }
 
 .contact .info .email:hover i,
