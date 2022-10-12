@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Tempo
-Template URL: https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Rasan
+Template URL: https://Rasanification.github.io
+Author: Rasan.dev
+License: https://Rasanification.github.io/license
